@@ -17,8 +17,6 @@ cd laravel-adminator
 
 composer install # Install backend dependencies
 
-
-
 cp .env.example .env # Update database credentials configuration
 
 php artisan key:generate # Generate new keys for Laravel
